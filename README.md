@@ -1,1 +1,1 @@
-# TheGuide.ai
+# guides-waitlist
